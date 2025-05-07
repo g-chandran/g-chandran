@@ -27,6 +27,12 @@
 
 ## 📌 Noteworthy Projects
 
+### ⌨️ [Typo](https://typo-dev.surge.sh)
+A gamified typewriting app for improving typing speed in a fun way.  
+✨ _Built with native Svelte animations, a command palette, and more._
+
+---
+
 ### 🖌️ [Themalyzer](https://embedvaya.com)
 Real-time theme extraction that cuts onboarding time from **days to seconds**.  
 _SvelteKit | Dynamic CSS Extraction | Style Combinations Engine_
@@ -36,12 +42,6 @@ _SvelteKit | Dynamic CSS Extraction | Style Combinations Engine_
 ### 📊 [UX Forensic](https://ux-forensic.vercel.app)
 An interactive case study blog decoding everyday apps' user experiences.  
 🚀 _Achieved perfect SEO scores with SSG, SSR, and smart prefetching._
-
----
-
-### ⌨️ [Typo](https://typo-dev.surge.sh)
-A gamified typewriting app for improving typing speed in a fun way.  
-✨ _Built with native Svelte animations, a command palette, and more._
 
 ---
 
