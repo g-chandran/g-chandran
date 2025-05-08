@@ -3,7 +3,7 @@
 ## 🚀 Startup Engineer | Frontend Specialist | Real-World Problem Solver
 
 🔹 I’m a **startup-minded engineer** with 4+ years of experience scaling **real-world products** that solve tangible problems.  
-🔹 Currently building magical user experiences as a **Founding Frontend Engineer** at [Vaya Technologies](https://embedvaya.com).  
+🔹 Currently building India's AI at [Ola Krutrim](https://www.olakrutrim.com/).  
 🔹 Passionate about **high-performance web apps**, **scalable architectures**, and **shipping fast without breaking things**.
 
 ![Startup Minded](https://img.shields.io/badge/-Startup%20Mindset-ff6f00?style=flat-square&logo=appveyor&logoColor=white)
@@ -52,6 +52,13 @@ A full-fledged RSS feed parser powered by Django + Celery + Redis.
 
 ## 📈 Career Milestones
 
+### ✨ Ola Krutrim (SDE-2)
+- Led the development Krutrim Chat V2 (Kruti) interface's Web Port
+- **Improved performance by 70% and reduced bundle size by 30%**, to scale to millions of users
+- Set pre-commit conventions, linting rules, and managed entire deployment cycle across 4 environments
+
+---
+
 ### 🔧 Vaya Technologies (SDE-2)
 - Shipped 5+ core features boosting user retention  
 - Architected a multi-tenant SSO reducing login friction by **40%**  
@@ -95,7 +102,7 @@ Writing, coding, and problem-solving are all different forms of storytelling —
 
 - ✉️ [chandranchan321@gmail.com](mailto:chandranchan321@gmail.com)
 - 💬 [LinkedIn](https://www.linkedin.com/in/hemachandran-g)
-- 📚 [GitHub](https://github.com/gh-chandran-vaya)
+- 📚 [GitHub](https://github.com/g-chandran)
 
 > _“I build interfaces that scale, perform, and delight — grounded in real-world impact and human connection.”_
 
